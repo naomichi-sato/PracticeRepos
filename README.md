@@ -1,6 +1,7 @@
-# PracticeRepos
+﻿# PracticeRepos
 リポジトリ操作練習用
 
 
 
 ローカルコンフリクトテスト
+コンフリクトテスト
