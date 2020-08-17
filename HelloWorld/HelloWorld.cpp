@@ -8,6 +8,8 @@ int main()
 	printf("Hello World 2!!\n");
 	printf("Hello World 3!!\n");
 
+	// collaboratorとしてprivateアカウントからコミット
+
 	system("pause");
 	return 0;
 }
