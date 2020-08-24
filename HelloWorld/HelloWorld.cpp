@@ -9,6 +9,7 @@ int main()
 	printf("Hello World 3!!\n");
 
 	// collaboratorとしてprivateアカウントからコミット
+	// Rebase Test Commit
 
 	system("pause");
 	return 0;
