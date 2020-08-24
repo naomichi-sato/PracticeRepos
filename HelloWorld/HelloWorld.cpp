@@ -10,6 +10,7 @@ int main()
 
 	// collaboratorとしてprivateアカウントからコミット
 	// Rebase Test Commit
+	// HEADが消えた…？
 
 	system("pause");
 	return 0;
