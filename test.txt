@@ -3,9 +3,7 @@ WebUIからのコミットコメントでリンクが張れるかテスト
 Sourcetreeからのコミットテスト
 Sourcetree上でもリンクが張られるかテスト
 
-オンライン上でのリベースコンフリクトテスト
-リベースコンフリクトテスト
+Slack連携のテスト
+SlackのワークスペースへGitHubアプリを追加したあとは、
 
-なんちゃって
-一時的な
-バグフィックスコミット
+/github subscribe owner/repo を打ち込むことで、Commitやissue、PullRequestなどの通知が届くようになる。
