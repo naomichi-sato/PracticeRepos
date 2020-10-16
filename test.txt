@@ -4,6 +4,7 @@ Sourcetreeからのコミットテスト
 Sourcetree上でもリンクが張られるかテスト
 
 Slack連携のテスト
-SlackのワークスペースへGitHubアプリを追加したあとは、
+・github側では Marketplace からslackアプリをアカウント(または組織)にインストールしておく必要がある
+・Slack側では アプリ からGitHubアプリをワークスペースへインストールしておく必要がある
 
 /github subscribe owner/repo を打ち込むことで、Commitやissue、PullRequestなどの通知が届くようになる。
